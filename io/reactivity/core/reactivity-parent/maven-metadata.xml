@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>io.reactivity.core</groupId>
-  <artifactId>java-lib</artifactId>
+  <artifactId>reactivity-parent</artifactId>
   <versioning>
     <versions>
       <version>0.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20161124212246</lastUpdated>
+    <lastUpdated>20161124212433</lastUpdated>
   </versioning>
 </metadata>
